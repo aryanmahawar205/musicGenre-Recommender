@@ -1,4 +1,4 @@
-## This SongRecommender ML Model is trained as per the following steps
+## <b>This SongRecommender ML Model is trained as per the following steps</b>
 
 Data was imported via csv file. This data had inconsistency which was predicted by the model with a certain level of accuracy. <br> <br>
 The Data could have been also cleaned. Essentially cleaning of Data was not done in this model. <br> <br>
